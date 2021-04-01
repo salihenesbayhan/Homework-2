@@ -1,0 +1,5 @@
+print("Chatbot: Hi, I am a chatbot.Please state your name.")
+print("User: Bora Güngören")
+print("Chatbot: Thank you Bora Güngören, How can I help you?")
+print("User: Account balance")
+print("Chatbot: Searching for ''Account balance''...")
